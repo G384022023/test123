@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "1 + 2 + 5 = " << 1 + 2 + 5 << endl;
+    cout << "15 / 4 * 3 = " << 15 / 4 * 3 << endl;
     return 0;
 }
